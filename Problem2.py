@@ -1,0 +1,1 @@
+#Printed  a table of 5 by using REPL
