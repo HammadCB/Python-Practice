@@ -25,7 +25,7 @@ print(b)
 
 #Increment in B of 3 
 
-# Logical OperaFalse
+# Logical Operarators
 #Truth Table o or 
 
 print("True  or  True is ", True or True )
