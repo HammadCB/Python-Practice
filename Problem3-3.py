@@ -4,3 +4,8 @@
 name = "Hammad is great  guy and "
 
 print(name.find("  "))
+
+#Program, to replace all double spaces to  single Space 
+
+name2 = " Hammad is  Super  guy"
+print(name2.replace("  "," "))
