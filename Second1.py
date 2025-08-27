@@ -1,10 +1,10 @@
-# a = "30.1"
-# b = float(a)
+x = "30.1"
+y = float(x)
 #   = a but the type should be float 
 
 # Shows Class.. of a Data Type 
-# t= type(a) 
-# print(t)
+t= type(x) 
+print(t)
 
 #Learning Input now 
 
