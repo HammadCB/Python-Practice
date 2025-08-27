@@ -6,7 +6,7 @@ y = float(x)
 t= type(x) 
 print(t)
 
-#Learning Input now 
+#Learning Input noww
 
 a=  int (input("Enter number 1 "))
 b = int (input("Enter number 2 "))
