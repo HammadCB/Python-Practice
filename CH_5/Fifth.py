@@ -1,6 +1,6 @@
 #Dictionary  
  # It is unordered , Mutable ,Indexed,No duplicate keyys 
-
+# NOTE in dictionary we use { } instead of [ ] ( )
 marks = {
     "Hammad": 100,
     "Haris": 45,
