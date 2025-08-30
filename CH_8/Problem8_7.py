@@ -1,12 +1,10 @@
-l=["Hammad","Ali","Khan"]
+l = ["Hammad", "Ali", "Khan", "Jawad"]
 
-def rem(l,word):
-    if word in l:
-        l.remove(word)
-        return l
-    else:
-        return "Word not found in the list"
+def rem(l, word):
+    n = []
+    for item in l:
+        if not (item == word):
+          n.append(item.strip(word))   
+    return n
 
-
-word=input("Enter the word you want to remove from the list: ")
-print(rem(l,word))
+print(rem(l, "ad"))
