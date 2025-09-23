@@ -21,8 +21,8 @@ for x in t:
     print(x)
 
 # Print Chracter of String in Loop 
-    s="Hammad"
-    for y in s:
+s="Hammad"
+for y in s:
         print(y)
 
 #     -------------------
