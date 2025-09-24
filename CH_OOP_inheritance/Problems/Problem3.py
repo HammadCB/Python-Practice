@@ -21,6 +21,12 @@ class Employee:
 
 e = Employee()
 print(e.salary_after_increment)  # 52500.0 (because 5% increment)
+
 e.increment = 60000              # set increment so final salary = 60000
-print(e.salary_after_increment)  # 60000.0
-print(e.increment)               # 0.2 (20% increment)
+print(e.salary_after_increment)
+print(e.increment)               # 60000.0
+
+
+e.increment = 90000    
+print(e.salary_after_increment)
+print(e.increment)             #How much incremement requited to get targeted Salary
