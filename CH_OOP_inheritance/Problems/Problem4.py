@@ -9,7 +9,7 @@ class Complex:
 # So Str function is Converting the output memory object into values 
 # Not the c1 self values 
     def __str__(self):
-        return f"{self.r}+{self.i}"
+        return f"{self.r}i+{self.i}j"
 
 c1= Complex(1,3)
 c2= Complex(3,8)
