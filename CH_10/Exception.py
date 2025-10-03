@@ -3,3 +3,5 @@ try:
     print (a)
 except Exception as e:
     print(e)
+
+    #Can also do situation based exception errors 
